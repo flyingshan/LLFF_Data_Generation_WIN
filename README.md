@@ -3,7 +3,7 @@ Use COLMAP to generate LLFF format dataset on WIN10
 
 ## pre-requisite:
 
-install [COLMAP](https://github.com/colmap/colmap/releases) (add exe to system PATH) and [imagemagick](https://imagemagick.org/script/download.php#windows) on your WIN10.
+Install [COLMAP](https://github.com/colmap/colmap/releases) (add installation path to system PATH environmental variable) and [imagemagick](https://imagemagick.org/script/download.php#windows) on your WIN10.
 
 ## data:
 
